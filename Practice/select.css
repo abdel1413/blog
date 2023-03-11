@@ -5,7 +5,7 @@ body {
 form {
   width: 300px;
   margin: auto;
-  margin-top: 200px;
+  margin-top: 100px;
   font-size: larger;
   background-color: #ffffff;
   padding: 10px;
@@ -18,11 +18,17 @@ label {
   padding: 10px;
 }
 
-#btn {
+.btn {
   margin: 5px 20px;
   width: 250px;
   background-color: #277af5;
   border: 1px solid;
   color: white;
+  padding: 10px;
+}
+
+#framework-multiple {
+  width: 250px;
+  margin: 5px 20px;
   padding: 10px;
 }
